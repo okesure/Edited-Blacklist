@@ -1,0 +1,191 @@
+# Created with:
+
+# Orginial : https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt 
+# Added list : https://raw.githubusercontent.com/llacb47/mischosts/master/tiktok-hosts
+# LineageOS 14.1
+# Android 6 on Huawei
+# Android 8 OnePlus
+# iPhone 6
+
+# Crashlytics
+e.crashlytics.com
+reports.crashlytics.com
+settings.crashlytics.com
+
+# Uncatagorized
+ads.twitter.com
+app-measurement.com
+events.appsflyer.com
+stats.appsflyer.com
+t.appsflyer.com
+log.musical.ly
+live.direct.ly
+device.zhiliaoapp.com
+uop.umeng.com
+alog.umeng.com
+alog.umengcloud.com
+api.branch.io
+cp.pushwoosh.com
+ws.tapjoyads.com
+connect.tapjoy.com
+ads.api.vungle.com
+adlog.flurry.com
+data.flurry.com
+wd.adcolony.com
+events3.adcolony.com
+events3alt.adcolony.com
+adc3-launch.adcolony.com
+supersonicads-a.akamaihd.net
+i.w.inmobi.com
+sdktm.w.inmobi.com
+ads.mopub.com
+api.gameanalytics.com
+med.heyzap.com
+api.uca.cloud.unity3d.com
+gate.hockeyapp.net
+sdk.hockeyapp.net
+engine.fyber.com
+trk.pinterest.com
+graph.accountkit.com
+1681.engine.mobileapptracking.com
+engine.mobileapptracking.com
+mobileapptracking.com
+config.ioam.de
+logs.locarta.co
+postback.pointwise.co
+dev.appboy.com
+z.moatads.com
+appspot-preview.l.google.com
+m.quantcount.com
+app.adjust.com
+utraffic.engine.adglare.net
+
+# Google
+www.googleadservices.com
+googleads.g.doubleclick.net
+securepubads.g.doubleclick.net
+ad.doubleclick.net
+ssl.google-analytics.com
+# clients1.google.com (blocks chromecast)
+adservice.google.de
+ade.googlesyndication.com
+id.google.de
+
+# Apple
+stats.gc.apple.com
+iadsdk.apple.com
+
+# Huawei
+servicesupport.hicloud.com
+
+# Snapchat ads and tracking
+# gcs.sc-cdn.net # needed to send snaps
+sc-analytics.appspot.com
+app-analytics.snapchat.com
+adserver.snapads.com
+euw.adserver.snapads.com
+euc.adserver.snapads.com
+usc.adserver.snapads.com
+ase.adserver.snapads.com
+tr.snapchat.com
+
+# Whatsapp
+crashlogs.whatsapp.net
+
+# Quizduell
+rt.applovin.com
+d.applvn.com
+a.applvn.com
+applvn.com
+
+# Leanplum
+leanplum.com
+www.leanplum.com
+api.leanplum.com
+
+# Tiktok
+
+a15-tb.isnssdk.com
+a16-tb.isnssdk.com
+abtest-va-tiktok.byteoversea.com
+ads.tiktok.com
+app-measurement.com
+app.musemuse.cn
+applog.musical.ly
+byteoversea.com
+cdn.isnssdk.com
+client_monitor.isnssdk.com
+clientmonitor.isnssdk.com
+dm.isnssdk.com
+dm.pstatp.com
+frontier.byteoversea.com
+frontier.musical.ly
+gecko-sg.byteoversea.com
+gecko-va.musical.ly
+i-tb.isnssdk.com
+i.isnssdk.com
+i16-tb.isnssdk.com
+i16-tb.isnssdk.com.edgekey.net
+ib.tiktokv.com
+ichannel-tb.isnssdk.com
+ichannel.isnssdk.com
+imapi-mu.isnssdk.com
+imapi-sg.isnssdk.com
+ipstatp.com
+isub-tb.isnssdk.com
+isub.isnssdk.com
+jsb-va.musical.ly
+log-tb.isnssdk.com
+log.byteoversea.com
+log.byteoversea.com.edgekey.net
+log.isnssdk.com
+log.musical.ly
+log.tiktokv.com
+log15.byteoversea.com
+log16.byteoversea.com
+log2.musical.ly
+maliva-mcs.byteoversea.com
+maliva-normal-lb.byteoversea.net
+mon-va.byteoversea.com
+mon.byteoversea.com
+mon.isnssdk.com
+mon.musical.ly
+mon.tiktokv.com
+musically-alternate.app.link
+musically.app.link
+notifyback-va.isnssdk.com
+open.isnssdk.com
+p.pstatp.com
+p0.ipstatp.com
+p16.pstatp.com
+p3.pstatp.com
+patrol-sg.snssdk.com
+pb3.pstatp.com
+rtlog.byteoversea.com
+rtlog.isnssdk.com
+rtlog.musical.ly
+rtlog.tiktokv.com
+s.ipstatp.com
+s0.ipstatp.com
+s0.pstatp.com
+s16.ipstatp.com
+s2.pstatp.com
+s3.pstatp.com
+s3a.pstatp.com
+sdfp-va.byteoversea.com
+security-lb-maliva.byteoversea.net
+sf1-ttcdn-tos.pstatp.com
+sf3-ttcdn-tos.pstatp.com
+sf6-ttcdn-tos.pstatp.com
+sgali-mcs.byteoversea.com
+share.musemuse.cn
+smr-aliva.byteoversea.com
+snssdk1233.onelink.me
+test-ads.tiktok.com
+v16-ad.byteoversea.com
+vas.isnssdk.com
+webcast.musical.ly
+xlog-va.byteoversea.com
+xlog-va.musical.ly
+xlog.byteoversea.com
+xlog.tiktokv.com
